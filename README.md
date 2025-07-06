@@ -1,4 +1,4 @@
 # demo_repo
 about repo
 You can write about your project . <br>
-author - subodh kamble 
+author - subodh (artificial intelligence )
